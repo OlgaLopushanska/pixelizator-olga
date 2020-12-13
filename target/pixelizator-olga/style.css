@@ -1,0 +1,60 @@
+body{
+    background-color: #54d8bd;
+    font: 15px Tahoma, sans-serif;
+}
+
+header{
+    color: #410082;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+header h1{
+    font: 30px Tahoma, sans-serif;
+    margin-top: 30px;
+}
+
+header p{
+    font: 20px Tahoma, sans-serif;
+    margin-top: 0px;
+}
+
+input type{
+    color: #ffffff;
+}
+
+section p{
+    float: left;
+    width: 70%;
+    padding-left: 30px;
+}
+
+.pictures1 img{
+    border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    /*padding-left: 20px;*/
+    padding: 15px; /* Расстояние от картинки до рамки */
+    background: #666; /* Цвет фона */
+    margin-right: 10px; /* Отступ справа */
+    margin-bottom: 10px; /* Отступ снизу */
+
+}
+
+aside{
+    font: 20px Tahoma, sans-serif;
+    color: #530053;
+    float: left;
+    margin: 0;
+    padding: 0px;
+    width: 25%;
+}
+
+.buttons_load {
+    width: 200px;
+    height: 38px;
+    background-color: darkgreen;
+    font: 20px Tahoma, sans-serif;
+    color: #ffffff;
+}
